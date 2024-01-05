@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Kgale59! 👋
 
-<!--
-**kgoel59/kgoel59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am currently a student of at [University of Wollongong] studying Computer Science, but i do have some industry experience as Devops Guy.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [My Portfolio Site (trying to build with NextJs), Some cool new project idea]
+- 🌱 I’m currently learning [NextJs, Pytorch, trying to get involded with OpenSource]
+- 👯 I’m looking to collaborate on [Anything which catches my interest]
+- 📫 How to reach me: [karangoel59@gmail.com]
+- ⚡ Fun fact: [I am both procrastinator and a perfectionist]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My GitHub Stats
+![Kgale59's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgale59&show_icons=true&theme=radical)
+
+😅 *I Know it is not much, but i am do tring to improve it with some good contribution to openSource in 2024*
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/kg59/)
+- [Twitter](https://twitter.com/kgale59)
+- [Personal Website](https://karangoel59.com/)
+
+---
+
+⭐️ From [kgale59](https://github.com/kgale59)
