@@ -1,4 +1,4 @@
-# Hello, I'm Kgale59! 👋
+# Hello, I'm Karan! 👋
 
 ## About Me
 I am currently a student of at [University of Wollongong] studying Computer Science, but i do have some industry experience as Devops Guy.
